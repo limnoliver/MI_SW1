@@ -1,0 +1,20 @@
+"variable","perc_var","pvals"
+"SS (mg/L)",33,0.06
+"Chloride (mg/L)",7.9,0.96
+"NO2 + NO3 (mg/L)",49,0.04
+"Ammonium (mg/L)",18.9,0.76
+"TKN (mg/L)",10.7,0.29
+"Orthophosphate (mg/L)",28.8,0.98
+"TP (mg/L)",19.6,0.78
+"TN  (mg/L)",50.6,0.15
+"Org N (mg/L)",12.5,0.15
+"SS load (pounds)",68.3,0.23
+"Chloride load (pounds)",49.2,0.95
+"NO2 + NO3 load (pounds)",39.3,0.15
+"Ammonium load (pounds)",35.5,0.61
+"TKN load (pounds)",60.8,0.5
+"Orthophosphate load (pounds)",40,0.87
+"TP load (pounds)",67.5,0.78
+"TN load (pounds)",49.2,0.4
+"Org N load (pounds)",66,0.47
+"Peak discharge (cfs)",49.1,0.65
